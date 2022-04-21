@@ -1,0 +1,1 @@
+This is stock prediction web app
